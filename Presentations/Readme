@@ -1,0 +1,28 @@
+# 🧑‍💻 Quantum Neural Networks (QNN) – Presentation
+
+## 📌 Overview
+This folder contains a **presentation on Quantum Neural Networks (QNNs)**, covering the **fundamental concepts of Quantum Computing** and the **architecture of QNNs**.  
+It is designed to serve as an **educational resource** for students, researchers, and practitioners exploring **Quantum Machine Learning (QML)**.
+
+---
+
+## 📖 Contents
+- **Basics of Quantum Computing**
+  - Qubits, Superposition, and Entanglement  
+  - Quantum Gates and Circuits  
+  - Measurement and Quantum State Evolution  
+
+- **Introduction to QNNs**
+  - Motivation: Why Quantum Machine Learning?  
+  - Comparison between Classical Neural Networks vs Quantum Neural Networks  
+  - Encoding Classical Data into Quantum States  
+
+- **QNN Architecture**
+  - Variational Quantum Circuits (VQCs)  
+  - Parameterized Quantum Gates  
+  - Hybrid Classical–Quantum Training Loop  
+  - Example: QNN applied to Classification  
+
+
+
+## 📂 Folder Structure
